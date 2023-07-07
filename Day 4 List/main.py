@@ -48,3 +48,4 @@ print(numbers)
 max_value = max(numbers)
 min_value = min(numbers)
 print(max_value, min_value)
+# neu nhu mot ngay 
