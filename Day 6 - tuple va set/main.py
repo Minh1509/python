@@ -39,7 +39,7 @@ print(set2 == set1) # true : noi dung giong nhau
 set2.clear () # xóa mọi phần tử
 
 # ktao 1 set cho truóc
-set = {-7, 4, 1, 3, -10, -5, -23 }
+set = {-7, 4, 1, 3, -10, -5, 23}
 print(set)
 k=  set.pop()
 print(k) # 1 : lấy phần tửu đầu tiên
